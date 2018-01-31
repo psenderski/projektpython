@@ -1,4 +1,4 @@
 name = input('Podaj swoje imie: ')
 print(name)
-prompt = 'Twoje imie to:'
-print(prompt, name)
+message = f'Twoje imie to: {name}'
+print(message)
